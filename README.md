@@ -1,5 +1,8 @@
 # GhostRoute
-
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-green)
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
 > **Your API, before it exists.**
 
 GhostRoute is a full-stack platform that transforms OpenAPI specifications into live mock APIs instantly.
